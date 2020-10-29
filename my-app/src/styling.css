@@ -1,0 +1,75 @@
+.contact-form{
+    margin-top: 20px;
+}
+
+.titlu-acasa{
+    background-image: url("https://www.utcluj.ro/media/faculties/7/inginerie-electrica.jpg.1280x720_q85_crop-smart.jpg");
+    padding-top: 50px;
+    height: 100vh;
+    color: #FFFFFF;
+}
+
+.video-react-duration-display, .video-react-progress-holder, .video-react-slider-horizontal, .video-react-slider{
+    display: none;
+}
+.btn-success {
+    width: 100px;
+}
+
+#inputVideoUrl{
+    margin: 30px;
+}
+
+.video-react-current-time-display{
+    display: none;
+}
+
+.form-label{
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.del-btn{
+    width: 30px;
+}
+
+.footerbun.btn-success{
+    width: 100px;
+    margin: 50px 100px 100px 50px;
+}
+
+input#technology.form-control{
+    margin: 20px!important;
+}
+
+
+.form-control{
+    width: 50%;
+    align-content: center;
+    text-align: center;
+    display: inline-block;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child{background-color: #f2f2f2}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+.video-react-controls-enabled,.video-react-paused,.video-react-fluid,.video-react-user-inactive,.video-react-workinghover,.video-react{
+    padding: 0px!important;
+}
